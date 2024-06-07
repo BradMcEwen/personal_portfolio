@@ -1,8 +1,8 @@
-#Personal Portfolio Project#
+# Personal Portfolio Project #
 
 **This project was my first take on building a personal portfolio!**
 
-#directory#
+## directory ##
  
 We start off with a nav bar on the top of the screen with links to each page of my portfolio, including: Home, About, Resume, Contact.
 My "logo" also brings the user back to the home page from any page as well.
